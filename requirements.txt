@@ -1,0 +1,12 @@
+streamlit==1.58.0
+pandas==3.0.3
+numpy==2.4.6
+plotly==6.7.0
+prophet==1.3.0
+scikit-learn==1.8.0
+seaborn==0.13.2
+matplotlib==3.10.9
+openpyxl==3.1.5
+cmdstanpy==1.3.0
+holidays==0.97
+pyarrow==24.0.0
